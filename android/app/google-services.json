@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37106244777",
+    "project_id": "rozy-food",
+    "storage_bucket": "rozy-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37106244777:android:b56163791dd4ce75575db8",
+        "android_client_info": {
+          "package_name": "com.example.rozy_restraunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37106244777-el98vc2sup8p1vbjpr0frg5qoct5jas7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChEad4QEc4Wv46TuLzRWlx4rLfcZHfShs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37106244777-el98vc2sup8p1vbjpr0frg5qoct5jas7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
